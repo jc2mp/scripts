@@ -1,3 +1,6 @@
 [submodule "Racing"]
 	path = Racing
 	url = https://github.com/dreadmullet/JC2-MP-Racing.git
+[submodule "JC2-MP-FighterJetHUD"]
+	path = JC2-MP-FighterJetHUD
+	url = https://github.com/dreadmullet/JC2-MP-FighterJetHUD.git
