@@ -1,0 +1,3 @@
+[submodule "Racing"]
+	path = Racing
+	url = https://github.com/dreadmullet/JC2-MP-Racing.git
