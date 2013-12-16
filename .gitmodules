@@ -4,3 +4,24 @@
 [submodule "JC2-MP-FighterJetHUD"]
 	path = JC2-MP-FighterJetHUD
 	url = https://github.com/dreadmullet/JC2-MP-FighterJetHUD.git
+[submodule "freeroam"]
+	path = freeroam
+	url = git@github.com:jc2mp/freeroam.git
+[submodule "help"]
+	path = help
+	url = git@github.com:jc2mp/help.git
+[submodule "killfeed"]
+	path = killfeed
+	url = git@github.com:jc2mp/killfeed.git
+[submodule "nametags"]
+	path = nametags
+	url = git@github.com:jc2mp/nametags.git
+[submodule "speedometer"]
+	path = speedometer
+	url = git@github.com:jc2mp/speedometer.git
+[submodule "playerlist"]
+	path = playerlist
+	url = git@github.com:jc2mp/playerlist.git
+[submodule "derby"]
+	path = derby
+	url = git@github.com:jc2mp/derby.git
